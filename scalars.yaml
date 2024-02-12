@@ -1,0 +1,7 @@
+name: Stanley
+number: 23
+version: "2"
+goodDay: false
+back: true
+c: YES
+B: NO #This is how comments are made in yaml
