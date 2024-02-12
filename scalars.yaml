@@ -9,3 +9,24 @@ B: NO #This is how comments are made in yaml
 
 
 test: "hes:&"
+
+
+line: |
+  hello 
+  lemme 
+  tes
+  tes
+  lt
+  lkajsflskdad
+
+breakLines: >
+  adfsafdasd
+  adfsadf
+  adfa
+  dfasd
+  fsa
+  dfsa
+  dfsadfasfdsadfsafsafd
+  safdasfdsadfsadfsadfadfsadf
+
+# user - to remove last line and + to maintain last line
