@@ -5,3 +5,7 @@ goodDay: false
 back: true
 c: YES
 B: NO #This is how comments are made in yaml
+# specialCharacter
+
+
+test: "hes:&"
