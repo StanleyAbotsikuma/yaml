@@ -10,5 +10,5 @@ negative-float: !!float -1323.23
 text: !!str 8979898
 
 timestamp: !!timestamp 2024-12-1 2:22:21.0
-timestamp(00:00:00z): !!timestamp 2024-12-1 2:22:21.0
+timestamp(00:00:00Z): !!timestamp 2024-12-1 2:22:21.0
 

@@ -1,0 +1,26 @@
+noIndent:
+- stanley
+- using
+- testing
+
+
+indent:
+  - yaml
+  - yaml laaa
+  - usdfsdf
+
+
+indent1:
+  - yaml:
+    name: Stamley
+    yam: sfsfsfsfsf
+
+  - yaml laaa:
+    name: Stamley
+    yam: sfsfsfsfsf
+
+  - usdfsdf:
+    name: Stamley
+    yam: sfsfsfsfsf
+
+
