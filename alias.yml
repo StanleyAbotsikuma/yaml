@@ -1,0 +1,16 @@
+definition: 
+  - activities: &week
+      monday: stanley
+      tuesday: kuma
+
+
+
+aliase:
+  - day: *week
+
+
+
+aliase2:
+  - day: 
+     <<: *week
+     tuesday: drama 
